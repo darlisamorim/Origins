@@ -141,6 +141,9 @@ Desde de que você tenha atenção irá conseguir modificar e ajustar os arquivo
 ## ➤ Dicas Úteis
 
 * 1. Uma vez que terminou o seu projeto recomendo fortemente que você unifique todos os arquivos em CSS.
+
 * 2. Eu utilizei uma nomenclatura {SITE_NAME}, {SITE_URL} etc ... seria ótimo você utilizar o **PHP** e definir constantes com os valores das Tags dessa forma você evitaria a reescrita de código ou textos.
+
 * 3. Eu estou alguns arquivos estão desativados ou pendentes no projeto, pois eu não achei ou não tive tempo para escreve-los/coloca-los fique a vontade para implementar.
+
 * 4. RSS e SITEMAP, vou criar um **RELEASE** com esses dois arquivos, porém o certo seria adiciona-los somente quando você já tiver implementado um loop com comunicação com banco de dados assim você puxa os valores dinamicamente e ficará muito mais fácil a escrita manualmente é muito trabalhoso, porém vou criar a base eles e deixar como bônus na próxima **RELEASE** ai vocês só precisaram implementar.
