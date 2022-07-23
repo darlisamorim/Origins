@@ -89,10 +89,10 @@ Estrutura ( Pastas e Arquivos ):
 
   * **raiz/**:
     * index.php -> Responsável pelas sessões ( sections ) do site
-    * README.md
-    * robots.txt
-    * rss.php  -> Arquivo pr
-    * sitemap.php -> Responsável pelas sessões ( sections ) do site
+    * README.md -> Arquivo de configuração do git ( O tutorial que está lendo agora ) 
+    * robots.txt -> Arquivo que define quais diretórios os buscadores podem ler e interpretar
+    * rss.php  -> Arquivo *Pendente
+    * sitemap.php -> Arquivo *Pendente
 
 <p align="center">
   <a href="https://www.figma.com/file/e33KvgUpFdunXxJjHnK7CG/Proffy-Mobile"><img src="https://img.shields.io/badge/figma-mobile-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"></a>
