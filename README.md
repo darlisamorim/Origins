@@ -140,4 +140,4 @@ Desde de que você tenha atenção irá conseguir modificar e ajustar os arquivo
 
 * Eu estou alguns arquivos estão desativados ou pendentes no projeto, pois eu não achei ou não tive tempo para escreve-los/coloca-los fique a vontade para implementar.
 
-* RSS e SITEMAP, vou criar um **RELEASE** com esses dois arquivos, porém o certo seria adiciona-los somente quando você já tiver implementado um loop com comunicação com banco de dados assim você puxa os valores dinamicamente e ficará muito mais fácil a escrita manualmente é muito trabalhoso, porém vou criar a base eles e deixar como bônus na próxima **RELEASE** ai vocês só precisaram implementar.
+* **RSS** e **SITEMAP**, vou criar um **RELEASE** com esses dois arquivos, porém o certo seria adiciona-los somente quando você já tiver implementado um loop com comunicação com banco de dados assim você puxa os valores dinamicamente e ficará muito mais fácil a escrita manualmente é muito trabalhoso, porém vou criar a base eles e deixar como bônus na próxima **RELEASE** ai vocês só precisaram implementar.
