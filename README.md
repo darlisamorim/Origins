@@ -42,9 +42,13 @@ Origins é uma base de arquivos para inicializar o desenvolvimento front-end, re
 - [HTML5](https://html5.org/)
   - Estrutura separada com tags pré-servidas
 - [CSS3](https://www.w3.org/Style/CSS/Overview.en.html)
+  - Folhas de estilo separadas
 - [jQuery](https://jquery.com/)
+  - Biblioteca adicionada
 - [Javascript](https://javascript.info/)
+  - Arquivo incluido( main.js )
 - [PHP](https://www.php.net/)
+  - Includes para fatiar o layout
 
 
 Extras:
