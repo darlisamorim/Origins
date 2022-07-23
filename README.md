@@ -16,7 +16,7 @@
 
 ## ➤ Projeto
 
-Origins é uma base de arquivos para inicializar o desenvolvimento front-end, reune algumas bibliotecas nativas veja nos extras abaixo.
+Origins é uma base de arquivos para inicializar o desenvolvimento front-end, reúne algumas bibliotecas nativas veja nos extras abaixo. A proposta aqui é somente fazer o download e começar a codar. Deixei uma estrutura simples pré-pronto( Header, Main, Footer, CSS e Medias Queries), porém é claro que você precisa ler está documentação até o final e trabalhar em cima da estrutura não do que deixei pré-pronto.
 
 
 
@@ -57,7 +57,17 @@ Extras:
 
 ## ➤ Layout
 
-Um preview sobre o projeto. Caso queira acessar o layout inteiro basta
+O Layout foi separado em camadas veja:
+
+Estrutura:
+  * _storage:
+    * [css]
+      * components
+      * [folds]
+  * partls
+    * [seo.php]
+    * [header.php]
+    * [footer.php]
 
 
 
