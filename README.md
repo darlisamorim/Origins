@@ -136,7 +136,7 @@ Desde de que você tenha atenção irá conseguir modificar e ajustar os arquivo
 
 * Uma vez que terminou o seu projeto recomendo fortemente que você unifique todos os arquivos em CSS.
 
-* Eu utilizei uma nomenclatura {SITE_NAME}, {SITE_URL} etc ... seria ótimo você utilizar o **PHP** e definir constantes com os valores das Tags dessa forma você evitaria a reescrita de código ou textos.
+* Eu utilizei uma nomenclatura **{SITE_NAME}**, **{SITE_URL}** etc ... seria ótimo você utilizar o **PHP** e definir constantes com os valores das Tags dessa forma você evitaria a reescrita de código ou textos.
 
 * Eu estou alguns arquivos estão desativados ou pendentes no projeto, pois eu não achei ou não tive tempo para escreve-los/coloca-los fique a vontade para implementar.
 
