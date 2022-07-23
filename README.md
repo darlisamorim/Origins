@@ -105,21 +105,28 @@ O Layout foi separado em camadas veja ( Pastas e Arquivos ):
 
 ## ➤ Como utilizar ?
 
-Esta es
+É uma estrutura bem simples basta seguir o padrão colocado por mim ou seja para cada arquivo existe um diretório específico onde ele se encaixará. A princípio quando você estiver refatorando o código irá notar que existem diversas Tags tais como ( {SITE_TITLE}, {SITE_SUBNAME}, {GOOGLE_CHECK}, {FACEBOOK_ID_PAGE}, etc ). Elas também foram colocadas como guia, pois servem para dizer exatamente onde você vai colocar determinada informações no site.
 
-Iniciando o backend:
+Recortei um pegaço da do arquivo **seo.php** é assim que ele se encontra atualmente:
 ```
-cd server
-npm install
-npm dev
+  * Tags:
+    * {SITE_TITLE} **->**
+    * {SITE_SUBNAME}
+    * {SITE_DESCRIPTION}
+    * {SITE_URL}
+
+<meta itemprop="name" content="{SITE_TITLE} | {SITE_SUBNAME}" />
+<meta itemprop="description" content="{SITE_DESCRIPTION}" />
+<meta itemprop="url" content="{SITE_URL}" />
+<meta itemprop="image" content="{SITE_IMAGE_DEFAULT}" />
 ```
 
-Iniciando o **Frontend** em **ReactJS**:
-
+Veja agora com ficará quando você modificar as Tags do site neste trecho do arquivo **seo.php**:
 ```
-cd web
-npm install
-npm start
+<meta itemprop="name" content="ProGame | O Melhor Site de Games" />
+<meta itemprop="description" content="Aqui você encontra o download de todos os melhores jogos de graça" />
+<meta itemprop="url" content="https://www.progame.com/" />
+<meta itemprop="image" content="https://www.progame.com/_storage/images/default.svg" />
 ```
 
 Assim que o processo terminar, automaticamente será aberta no seu navegador a página localhost:3000 contendo o Projeto.
