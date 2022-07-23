@@ -61,37 +61,37 @@ O Layout foi separado em camadas veja ( Pastas e Arquivos ):
 
   * **/_storage**:
     * [/css]
-      * [/components] -> ( Arquivos de Bibliotecas )
+      * [/components] **->** ( Arquivos de Bibliotecas )
         * animate.css
         * boxicons.css
         * cssoo.css
         * fontawesome.css
         * icomoon.css
-        * iconscout.css -> ( Pendente ( Assim que possível vou coloca-la ) )
+        * iconscout.css **->** ( Pendente ( Assim que possível vou coloca-la ) )
         * line-awesome.css
-        * ~~normalize.css~~ -> ( Desabilitado ( Esteja Reset está desabilitado estou usando o meu próprio ) )
+        * ~~normalize.css~~ **->** ( Desabilitado ( Esteja Reset está desabilitado estou usando o meu próprio ) )
         * queries.css
         * reset.css
-      * [/folds] -> ( Style de Páginas )
+      * [/folds] **->** ( Style de Páginas )
         * header.css
         * main.css
         * footer.css
 
-    * [/fonts] -> ( Arquivos complementares das bibliotecas ( .eot, svg, ttf etc..) )
-    * [/images] -> ( Imagens do projeto (Logo, favicon, Default) )
-    * [/js] -> ( Scripts do projeto (Html5shiv, jQuery e Main) )
+    * [/fonts] **->** ( Arquivos complementares das bibliotecas ( .eot, svg, ttf etc..) )
+    * [/images] **->** ( Imagens do projeto (Logo, favicon, Default) )
+    * [/js] **->** ( Scripts do projeto (Html5shiv, jQuery e Main) )
 
   * **/partls**:
-    * [seo.php] -> Otimizações para os buscadores
-    * [header.php] -> Arquivo de cabeçalho e definições do site
-    * [footer.php] -> Rodapé do site
+    * [seo.php] **->** Otimizações para os buscadores
+    * [header.php] **->** Arquivo de cabeçalho e definições do site
+    * [footer.php] **->** Rodapé do site
 
   * **raiz/**:
-    * index.php -> Responsável pelas sessões ( sections ) do site
-    * README.md -> Arquivo padrão de interpretação do git ou seja este tutorial que está lendo agora
-    * robots.txt -> Define quais diretórios os buscadores podem ou não ler e interpretar
-    * ~~rss.php~~  -> Arquivo *Pendente
-    * ~~sitemap.php~~ -> Arquivo *Pendente
+    * index.php **->** Responsável pelas sessões ( sections ) do site
+    * README.md **->** Arquivo padrão de interpretação do git ou seja este tutorial que está lendo agora
+    * robots.txt **->** Define quais diretórios os buscadores podem ou não ler e interpretar
+    * ~~rss.php~~  **->** Arquivo *Pendente
+    * ~~sitemap.php~~ **->** Arquivo *Pendente
 
 <p align="center">
   <a href="https://www.figma.com/file/e33KvgUpFdunXxJjHnK7CG/Proffy-Mobile"><img src="https://img.shields.io/badge/figma-mobile-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"></a>
