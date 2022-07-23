@@ -98,6 +98,7 @@ O Layout foi separado em camadas veja ( Pastas e Arquivos ):
 
 ## ➤ Como utilizar ?
 
+Comece deixando um Follow no meu Github e em seguida exclua os seguintes arquivos ( .gitignore, README.md e .git ) você não precisa destes arquivos a partir disso e so ler com atenção abaixo. </br>
 É uma estrutura bem simples basta seguir o padrão colocado por mim ou seja para cada arquivo existe um diretório específico onde ele se encaixará. A princípio quando você estiver refatorando o código irá notar que existem diversas Tags tais como ( {SITE_TITLE}, {SITE_SUBNAME}, {GOOGLE_CHECK}, {FACEBOOK_ID_PAGE}, etc ). Elas também foram colocadas como guia, pois servem para dizer exatamente onde você vai colocar determinada informações no site.
 
 Recortei um pegaço da do arquivo **seo.php** é assim que ele se encontra atualmente:
