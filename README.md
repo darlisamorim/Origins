@@ -62,7 +62,7 @@ O Layout foi separado em camadas veja:
 Estrutura:
   * _storage:
     * [css]
-      * components
+      * [components] -> Bibliotecas (Animate, reset, Variáveis etc...)
       * [folds]
     * [fonts]
     * [images]
