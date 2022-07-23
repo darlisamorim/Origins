@@ -103,9 +103,9 @@ O Layout foi separado em camadas veja ( Pastas e Arquivos ):
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)](#file-insomnia)
 
-## ➤ Instalação
+## ➤ Como utilizar ?
 
-O **Backend** foi construido em **NodeJS**, certifique-se de ter alguma versão do node instalada em sua máquina. Utilize o Insomnia para realizar os testes na API.
+Esta es
 
 Iniciando o backend:
 ```
@@ -140,11 +140,3 @@ Iniciando com o **Mobile** em **React Native**
   ```
 
 Será aberta no seu navegador a página localhost:19002. Conecte seu emulador, ou teste o aplicativo por LAN: baixe o aplicativo Expo da Play Store ou App Store e em seguida escaneie o código QR.
-
-
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)](#crditos-)
-
-## ➤ Créditos
-
-Aplicação criada durante a Next level Week 2, um evento criado pela [RocketSeat](https://rocketseat.com.br/) 🚀. <br/>
-Aulas conduzidas pelo [Diego Fernandes](https://github.com/diego3g)
