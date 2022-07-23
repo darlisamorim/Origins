@@ -132,7 +132,7 @@ Desde de que você tenha atenção irá conseguir modificar e ajustar os arquivo
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)](#file-insomnia)
 
-## ➤ Dicas e Avisos #LEIA!
+## ➤ Dicas e avisos #LEIA!
 
 * Uma vez que terminou o seu projeto recomendo fortemente que você unifique todos os arquivos em CSS para um só. Você pode utilizar o **composer** nele existe um repositório muito bom para compilar arquivos CSS, JS etc... Vá no **packages** e procure por **matthiasmullie/minify**, claro isso é uma maneira existem outras.
 
