@@ -138,7 +138,7 @@ Desde de que você tenha atenção irá conseguir modificar e ajustar os arquivo
 
 * Mais uma coisa a respeito de compilar seus arquivos e unifica-los dentro das páginas **header.php** e **footer.php** existe uma ordem a qual os arquivos está sendo executados na página quando for compilar siga essa ordem para não ter problemas com seu CSS, JS e etc...
 
-* Eu utilizei uma nomenclatura **{SITE_NAME}**, **{SITE_URL}** etc ... Seria ótimo você utilizar o **PHP** e definir constantes com os valores das Tags dessa forma você evitaria a reescrita de código ou textos.
+* Eu utilizei uma nomenclatura **{SITE_NAME}**, **{SITE_URL}** etc ... Seria ótimo você utilizar o **PHP** e definir constantes com os valores das Tags dessa forma você evitaria a reescrita de código ou textos. Algumas dessas **nomenclatura** são de URL e para alguns casos você terá que substituir para a url da sua página para seu script funcionar. 
 
 * Eu estou alguns arquivos estão desativados ou pendentes no projeto, pois eu não achei ou não tive tempo para escreve-los/coloca-los fique a vontade para implementar.
 
