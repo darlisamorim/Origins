@@ -31,7 +31,7 @@
 
 ## ➤ Projeto
 
-Origins é uma base de arquivos para inicializar o desenvolvimento front-end, reune algumas bibliotecas nativamente tais como Fonts, JS etc ...
+Origins é uma base de arquivos para inicializar o desenvolvimento front-end, reune algumas bibliotecas nativas veja nos extras abaixo.
 
 
 
@@ -54,7 +54,7 @@ Extras:
     * [Icomoon](https://icomoon.io/)
     * [Line-Awesome](https://icons8.com/line-awesome)
     * [~~Iconscout~~ *Pending](https://icons8.com/line-awesome)
-    * [~~Iconscout~~ *Disabled](https://necolas.github.io/normalize.css/)
+    * [~~NormalizeCSS~~ *Disabled](https://necolas.github.io/normalize.css/)
     * [AnimateCSS](https://animate.style)
 
 
