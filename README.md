@@ -109,19 +109,19 @@ O Layout foi separado em camadas veja ( Pastas e Arquivos ):
 
 Recortei um pegaço da do arquivo **seo.php** é assim que ele se encontra atualmente:
 ```
-  * Tags:
-    * {SITE_TITLE} -> Titulo do site { ProGame }
-    * {SITE_SUBNAME} -> Sub Descrição do site  { O Melhor Site de Games }
-    * {SITE_DESCRIPTION} -> Descrição completa { Você encontra o download de todos os melhores jogos de graça }
-    * {SITE_URL} -> URL do site { https://www.progame.com/ }
-    * {SITE_IMAGE_DEFAULT} -> Imagem de compartilhamento do site { https://www.progame.com/_storage/images/default.svg }
+* Tags:
+  * {SITE_TITLE} -> Titulo do site { ProGame }
+  * {SITE_SUBNAME} -> Sub Descrição do site  { O Melhor Site de Games }
+  * {SITE_DESCRIPTION} -> Descrição completa { Você encontra o download de todos os melhores jogos de graça }
+  * {SITE_URL} -> URL do site { https://www.progame.com/ }
+  * {SITE_IMAGE_DEFAULT} -> Imagem de compartilhamento do site { https://www.progame.com/_storage/images/default.svg }
 
 <meta itemprop="name" content="{SITE_TITLE} | {SITE_SUBNAME}" />
 <meta itemprop="description" content="{SITE_DESCRIPTION}" />
 <meta itemprop="url" content="{SITE_URL}" />
 <meta itemprop="image" content="{SITE_IMAGE_DEFAULT}" />
 
-  Note que cada Tag tem um texto autoexplicativo nela veja no exemplo abaixo.
+* Note que cada Tag tem um texto autoexplicativo nela veja no exemplo abaixo.
 ```
 
 Em nosso exemplo veja como ficará quando você modificar as Tags do site note que pegamos o mesmo trecho do arquivo **seo.php**:
