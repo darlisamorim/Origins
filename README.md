@@ -60,7 +60,7 @@ Extras:
 O Layout foi separado em camadas veja:
 
 Estrutura ( Pastas e Arquivos ):
-  * **_storage**:
+  * **/_storage**:
     * [/css]
       * [/components] -> ( Arquivos de Bibliotecas )
         * animate.css
@@ -82,12 +82,12 @@ Estrutura ( Pastas e Arquivos ):
     * [/images] -> ( Imagens do projeto (Logo, favicon, Default) )
     * [/js] -> ( Scripts do projeto (Html5shiv, jQuery e Main) )
 
-  * **partls**:
+  * **/partls**:
     * [seo.php] -> Otimizações para os buscadores
     * [header.php] ->
     * [footer.php]
 
-  * **/raiz**:
+  * **raiz/**:
     * index.php -> Responsável pelas sessões ( sections ) do site
     * README.md
     * robots.txt
