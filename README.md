@@ -110,6 +110,7 @@ O Layout foi separado em camadas veja ( Pastas e Arquivos ):
 Recortei um pegaço da do arquivo **seo.php** é assim que ele se encontra atualmente:
 ```
 * Tags:
+
   * {SITE_TITLE} -> Titulo do site { ProGame }
   * {SITE_SUBNAME} -> Sub Descrição do site  { O Melhor Site de Games }
   * {SITE_DESCRIPTION} -> Descrição completa { Você encontra o download de todos os melhores jogos de graça }
@@ -126,6 +127,8 @@ Recortei um pegaço da do arquivo **seo.php** é assim que ele se encontra atual
 
 Em nosso exemplo veja como ficará quando você modificar as Tags do site note que pegamos o mesmo trecho do arquivo **seo.php**:
 ```
+* Exemplo:
+
 <meta itemprop="name" content="ProGame | O Melhor Site de Games" />
 <meta itemprop="description" content="Você encontra o download de todos os melhores jogos de graça" />
 <meta itemprop="url" content="https://www.progame.com/" />
