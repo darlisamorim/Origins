@@ -57,9 +57,8 @@ Extras:
 
 ## ➤ Layout
 
-O Layout foi separado em camadas veja:
+O Layout foi separado em camadas veja ( Pastas e Arquivos ):
 
-Estrutura ( Pastas e Arquivos ):
   * **/_storage**:
     * [/css]
       * [/components] -> ( Arquivos de Bibliotecas )
@@ -89,7 +88,7 @@ Estrutura ( Pastas e Arquivos ):
 
   * **raiz/**:
     * index.php -> Responsável pelas sessões ( sections ) do site
-    * README.md -> Arquivo de configuração do git ( O tutorial que está lendo agora ) 
+    * README.md -> Arquivo de configuração do git ( O tutorial que está lendo agora )
     * robots.txt -> Arquivo que define quais diretórios os buscadores podem ler e interpretar
     * rss.php  -> Arquivo *Pendente
     * sitemap.php -> Arquivo *Pendente
