@@ -74,6 +74,9 @@ Estrutura:
         * queries.css
         * reset.css
       * [/folds] -> ( Style Páginas (Header, Main, Footer etc)... )
+        * header.css
+        * main.css
+        * footer.css
 
     * [/fonts] -> ( Complementos das Bibliotecas )
     * [/images] -> ( Imagens do Projeto (Logo, favicon, Default) )
