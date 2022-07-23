@@ -1,21 +1,23 @@
-<h1 align='center'> Hi there 👋, I'm Darlis A. Amorim_  🧑🏻‍💻 </h1>
 
-<p align='center'>
-  I live in São Paulo/SP, Brazil and work as <b>Freelancer</b>. 
+<p align="center">
+  <img src="https://camo.githubusercontent.com/74c8681f6d4521903b63e79173a72f0b849243be/68747470733a2f2f692e696d6775722e636f6d2f73356c546465502e706e67" alt="Logo" width="150" height="auto"  />
 </p>
 
-<p align='center'>
-  <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=darlisamorim.darlisamorim??style=for-the-badge&logo=appveyor"></a>&nbsp;&nbsp;&nbsp;
-  <a href="#"><img src="https://img.shields.io/github/followers/darlisamorim.svg?style=social&label=Follow&maxAge=2592000"></a>
+<p align="center">
+  </br>
+  <sub><b>Conectando estudantes à professores</b></sub>
 </p>
 
+<br />
 
-<p align='center'>
-  <a title="Darlis A. Amorim_ | Linktr.ee" target="_blank" href="https://linktr.ee/darlisamorim"><img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a title="Darlis A. Amorim_ | Linkedin" target="_blank" href="https://www.linkedin.com/in/darlisamorim/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:eu@darlisalvesamorim.com?subject=Olá%20Darlis%20A.%20Amorim_"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-</p>
+<div align="center">
+  <img src="web/src/assets/images/landing.svg" alt="Preview Web"></img>
+</div>
+
+</br>
+</br>
+
 
 
 <p align="center">
