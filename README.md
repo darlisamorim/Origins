@@ -59,10 +59,10 @@ Extras:
 
 O Layout foi separado em camadas veja:
 
-Estrutura:
-  * _storage:
+Estrutura ( Pastas e Arquivos ):
+  * **_storage**:
     * [/css]
-      * [/components] -> ( Bibliotecas (AnimateCSS, Reset, Variáveis etc)... )
+      * [/components] -> ( Arquivos de Bibliotecas )
         * animate.css
         * boxicons.css
         * cssoo.css
@@ -73,21 +73,21 @@ Estrutura:
         * normalize.css -> ( Desabilitado ( Esteja Reset está desabilitado estou usando o meu próprio ) )
         * queries.css
         * reset.css
-      * [/folds] -> ( Style Páginas (Header, Main, Footer etc)... )
+      * [/folds] -> ( Style de Páginas )
         * header.css
         * main.css
         * footer.css
 
-    * [/fonts] -> ( Complementos das Bibliotecas )
+    * [/fonts] -> ( Arquivos Complementares das Bibliotecas ( .eot, svg, ttf etc..) )
     * [/images] -> ( Imagens do Projeto (Logo, favicon, Default) )
     * [/js] -> ( Scripts do Projeto (Html5shiv, jQuery e Main) )
 
-  * partls:
+  * **partls**:
     * [seo.php] -> Otimizações para os Buscadores
     * [header.php] ->
     * [footer.php]
 
-  * /RAIZ:
+  * **/RAIZ**:
 
 
 <p align="center">
