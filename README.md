@@ -136,6 +136,8 @@ Desde de que você tenha atenção irá conseguir modificar e ajustar os arquivo
 
 * Uma vez que terminou o seu projeto recomendo fortemente que você unifique todos os arquivos em CSS para um só. Você pode utilizar o **composer** nele existe um repositório muito bom para compilar arquivos CSS, JS etc... Vá no **packages** e procure por **matthiasmullie/minify**, claro isso é uma maneira existem outras.
 
+* Mais uma coisa a respeito de compilar seus arquivos e unifica-los dentro das páginas **header.php** e **footer.php** existe uma ordem a qual os arquivos está sendo executados na página quando for compilar siga essa ordem para não ter problemas com seu CSS, JS e etc...
+
 * Eu utilizei uma nomenclatura **{SITE_NAME}**, **{SITE_URL}** etc ... seria ótimo você utilizar o **PHP** e definir constantes com os valores das Tags dessa forma você evitaria a reescrita de código ou textos.
 
 * Eu estou alguns arquivos estão desativados ou pendentes no projeto, pois eu não achei ou não tive tempo para escreve-los/coloca-los fique a vontade para implementar.
