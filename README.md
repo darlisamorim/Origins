@@ -53,7 +53,8 @@ Extras:
     * [Fontawesome](https://fontawesome.com/)
     * [Icomoon](https://icomoon.io/)
     * [Line-Awesome](https://icons8.com/line-awesome)
-    * [~~Iconscout~~ Pendente](https://icons8.com/line-awesome)
+    * [~~Iconscout~~ *Pending](https://icons8.com/line-awesome)
+    * [~~Iconscout~~ *Disabled](https://necolas.github.io/normalize.css/)
     * [AnimateCSS](https://animate.style)
 
 
