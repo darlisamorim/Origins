@@ -78,21 +78,21 @@ Estrutura ( Pastas e Arquivos ):
         * main.css
         * footer.css
 
-    * [/fonts] -> ( Arquivos Complementares das Bibliotecas ( .eot, svg, ttf etc..) )
-    * [/images] -> ( Imagens do Projeto (Logo, favicon, Default) )
-    * [/js] -> ( Scripts do Projeto (Html5shiv, jQuery e Main) )
+    * [/fonts] -> ( Arquivos complementares das bibliotecas ( .eot, svg, ttf etc..) )
+    * [/images] -> ( Imagens do projeto (Logo, favicon, Default) )
+    * [/js] -> ( Scripts do projeto (Html5shiv, jQuery e Main) )
 
   * **partls**:
-    * [seo.php] -> Otimizações para os Buscadores
+    * [seo.php] -> Otimizações para os buscadores
     * [header.php] ->
     * [footer.php]
 
   * **/raiz**:
-    * index.php
+    * index.php -> Responsável pelas sessões ( sections ) do site
     * README.md
     * robots.txt
-    * rss.php
-    * sitemap.php
+    * rss.php  -> Arquivo pr
+    * sitemap.php -> Responsável pelas sessões ( sections ) do site
 
 <p align="center">
   <a href="https://www.figma.com/file/e33KvgUpFdunXxJjHnK7CG/Proffy-Mobile"><img src="https://img.shields.io/badge/figma-mobile-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"></a>
