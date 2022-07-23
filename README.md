@@ -62,21 +62,21 @@ O Layout foi separado em camadas veja:
 Estrutura:
   * _storage:
     * [css]
-      * [components] -> Bibliotecas (AnimateCSS, Reset, Variáveis etc)...
+      * [components] -> ( Bibliotecas (AnimateCSS, Reset, Variáveis etc)... )
         * animate.css
         * boxicons.css
         * cssoo.css
         * fontawesome.css
         * icomoon.css
-        * iconscout.css -> Pendente ( Assim que possível vou coloca-la )
+        * iconscout.css -> ( Pendente ( Assim que possível vou coloca-la ) )
         * line-awesome.css
-        * normalize.css -> Desabilitado ( Esteja Reset está desabilitado estou usando o meu próprio )
+        * normalize.css -> ( Desabilitado ( Esteja Reset está desabilitado estou usando o meu próprio ) )
         * queries.css
         * reset.css
-      * [folds] -> Style Páginas (Header, Main, Footer etc)...
-    * [fonts] -> Complementos das Bibliotecas
-    * [images] -> Imagens do Projeto (Logo, favicon, Default)
-    * [js] -> Scripts do Projeto (Html5shiv, jQuery e Main)
+      * [folds] -> ( Style Páginas (Header, Main, Footer etc)... )
+    * [fonts] -> ( Complementos das Bibliotecas )
+    * [images] -> ( Imagens do Projeto (Logo, favicon, Default) )
+    * [js] -> ( Scripts do Projeto (Html5shiv, jQuery e Main) )
   * partls:
     * [seo.php] -> Otimizações para os Buscadores
     * [header.php] ->
