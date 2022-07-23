@@ -115,7 +115,7 @@ Recortei um pegaço da do arquivo **seo.php** é assim que ele se encontra atual
 <meta itemprop="url" content="{SITE_URL}" />
 <meta itemprop="image" content="{SITE_IMAGE_DEFAULT}" />
 
-* Note que cada Tag tem um texto autoexplicativo nela veja no exemplo abaixo.
+* Note que cada Tag tem um texto auto-explicativo nela acima eu citei algumas existem outras dentro do projeto, porém veja um exemplo pronto abaixo.
 ```
 
 Em nosso exemplo veja como ficará quando você modificar as Tags do site note que pegamos o mesmo trecho do arquivo **seo.php**:
