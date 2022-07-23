@@ -98,11 +98,16 @@ O Layout foi separado em camadas veja ( Pastas e Arquivos ):
 
 ## ➤ Como utilizar ?
 
-Comece deixando um Follow no meu Github e em seguida exclua os seguintes arquivos ( .gitignore, README.md e .git ) você não precisa destes arquivos a partir disso e so ler com atenção abaixo. </br>
+Comece deixando um Follow no meu Github e em seguida exclua os seguintes arquivos ( **.gitignore**, **README.md** e **/.git** ) você não precisa destes arquivos a partir disso e so ler com atenção abaixo. </br></br>
 É uma estrutura bem simples basta seguir o padrão colocado por mim ou seja para cada arquivo existe um diretório específico onde ele se encaixará. A princípio quando você estiver refatorando o código irá notar que existem diversas Tags tais como ( {SITE_TITLE}, {SITE_SUBNAME}, {GOOGLE_CHECK}, {FACEBOOK_ID_PAGE}, etc ). Elas também foram colocadas como guia, pois servem para dizer exatamente onde você vai colocar determinada informações no site.
 
-Recortei um pegaço da do arquivo **seo.php** é assim que ele se encontra atualmente:
+Recortei um trecho do arquivo **seo.php** é assim que ele se encontra atualmente:
 ```
+<meta itemprop="name" content="{SITE_TITLE} | {SITE_SUBNAME}" />
+<meta itemprop="description" content="{SITE_DESCRIPTION}" />
+<meta itemprop="url" content="{SITE_URL}" />
+<meta itemprop="image" content="{SITE_IMAGE_DEFAULT}" />
+
 * Tags:
 
   * {SITE_TITLE} -> Titulo do site { ProGame }
@@ -110,11 +115,6 @@ Recortei um pegaço da do arquivo **seo.php** é assim que ele se encontra atual
   * {SITE_DESCRIPTION} -> Descrição completa { Você encontra o download de todos os melhores jogos de graça }
   * {SITE_URL} -> URL do site { https://www.progame.com/ }
   * {SITE_IMAGE_DEFAULT} -> Imagem de compartilhamento do site { https://www.progame.com/_storage/images/default.svg }
-
-<meta itemprop="name" content="{SITE_TITLE} | {SITE_SUBNAME}" />
-<meta itemprop="description" content="{SITE_DESCRIPTION}" />
-<meta itemprop="url" content="{SITE_URL}" />
-<meta itemprop="image" content="{SITE_IMAGE_DEFAULT}" />
 
 * Note que cada Tag tem um texto auto-explicativo nela acima eu citei algumas existem outras dentro do projeto, porém veja um exemplo pronto abaixo.
 ```
