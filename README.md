@@ -134,10 +134,12 @@ Desde de que você tenha atenção irá conseguir modificar e ajustar os arquivo
 
 ## ➤ Dicas Úteis
 
-* Uma vez que terminou o seu projeto recomendo fortemente que você unifique todos os arquivos em CSS.
+* Uma vez que terminou o seu projeto recomendo fortemente que você unifique todos os arquivos em CSS para um só. Você pode utilizar o **composer** nele existe um repositório muito bom para compilar arquivos CSS, JS etc... Vá no **packages** e procure por **matthiasmullie/minify**, claro isso é uma maneira existem outras.
 
 * Eu utilizei uma nomenclatura **{SITE_NAME}**, **{SITE_URL}** etc ... seria ótimo você utilizar o **PHP** e definir constantes com os valores das Tags dessa forma você evitaria a reescrita de código ou textos.
 
 * Eu estou alguns arquivos estão desativados ou pendentes no projeto, pois eu não achei ou não tive tempo para escreve-los/coloca-los fique a vontade para implementar.
+
+* Eu estou utilizando um **Reset.css** próprio, porém caso queira utilizar o normalize basta desabilitar o meu ou excluir de qualquer forma todos os arquivos foram pra você neste projeto.
 
 * **RSS** e **SITEMAP**, vou criar um **RELEASE** com esses dois arquivos, porém o certo seria adiciona-los somente quando você já tiver implementado um loop com comunicação com banco de dados assim você puxa os valores dinamicamente e ficará muito mais fácil a escrita manualmente é muito trabalhoso, porém vou criar a base eles e deixar como bônus na próxima **RELEASE** ai vocês só precisaram implementar.
