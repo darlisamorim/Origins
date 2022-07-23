@@ -93,13 +93,6 @@ O Layout foi separado em camadas veja ( Pastas e Arquivos ):
     * ~~rss.php~~  **->** Arquivo *Pendente
     * ~~sitemap.php~~ **->** Arquivo *Pendente
 
-<p align="center">
-  <a href="https://www.figma.com/file/e33KvgUpFdunXxJjHnK7CG/Proffy-Mobile"><img src="https://img.shields.io/badge/figma-mobile-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"></a>
-  <a href="https://www.figma.com/file/e33KvgUpFdunXxJjHnK7CG/?viewer=1&node-id="><img src="https://img.shields.io/badge/figma-web-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"></a>
-
-</p>
-
-<br/>
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)](#file-insomnia)
 
