@@ -110,40 +110,25 @@ O Layout foi separado em camadas veja ( Pastas e Arquivos ):
 Recortei um pegaço da do arquivo **seo.php** é assim que ele se encontra atualmente:
 ```
   * Tags:
-    * {SITE_TITLE} **->**
-    * {SITE_SUBNAME}
-    * {SITE_DESCRIPTION}
-    * {SITE_URL}
+    * {SITE_TITLE} -> Titulo do site { ProGame }
+    * {SITE_SUBNAME} -> Sub Descrição do site  { O Melhor Site de Games }
+    * {SITE_DESCRIPTION} -> Descrição completa { Você encontra o download de todos os melhores jogos de graça }
+    * {SITE_URL} -> URL do site { https://www.progame.com/ }
+    * {SITE_IMAGE_DEFAULT} -> Imagem de compartilhamento do site { https://www.progame.com/_storage/images/default.svg }
 
 <meta itemprop="name" content="{SITE_TITLE} | {SITE_SUBNAME}" />
 <meta itemprop="description" content="{SITE_DESCRIPTION}" />
 <meta itemprop="url" content="{SITE_URL}" />
 <meta itemprop="image" content="{SITE_IMAGE_DEFAULT}" />
+
+  Note que cada Tag tem um texto autoexplicativo nela veja no exemplo abaixo.
 ```
 
-Veja agora com ficará quando você modificar as Tags do site neste trecho do arquivo **seo.php**:
+Em nosso exemplo veja como ficará quando você modificar as Tags do site note que pegamos o mesmo trecho do arquivo **seo.php**:
 ```
 <meta itemprop="name" content="ProGame | O Melhor Site de Games" />
-<meta itemprop="description" content="Aqui você encontra o download de todos os melhores jogos de graça" />
+<meta itemprop="description" content="Você encontra o download de todos os melhores jogos de graça" />
 <meta itemprop="url" content="https://www.progame.com/" />
 <meta itemprop="image" content="https://www.progame.com/_storage/images/default.svg" />
 ```
-
-Assim que o processo terminar, automaticamente será aberta no seu navegador a página localhost:3000 contendo o Projeto.
-
-Iniciando com o **Mobile** em **React Native**
-
-  1.Coloque o endereço do seu servidor (ou computador) no arquivo *mobile/src/services/api.tsx*
-  <br/>
-  2. Execute os comandos:
-
-  ```
-  # NÃO é preciso executar a linha abaixo caso ja tenha o Expo (CLI) instalado!
-  npm install -g expo-cli
-  //
-  cd mobile
-  npm install
-  expo start
-  ```
-
-Será aberta no seu navegador a página localhost:19002. Conecte seu emulador, ou teste o aplicativo por LAN: baixe o aplicativo Expo da Play Store ou App Store e em seguida escaneie o código QR.
+Desde de que você tenha atenção irá conseguir modificar e ajustar os arquivos para alimenta-los a partir do refatoramento e assim terá um site ou página otimizado.
