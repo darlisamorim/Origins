@@ -4,24 +4,20 @@
   Hope you like this foundation.
 </p>
 
-<p align='center'>
-  <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=darlisamorim.darlisamorim??style=for-the-badge&logo=appveyor"></a>&nbsp;&nbsp;&nbsp;
-  <a href="#"><img src="https://img.shields.io/github/followers/darlisamorim.svg?style=social&label=Follow&maxAge=2592000"></a>
+
+<p align='right'>
+<h4>💬  Sometimes I like to write things here...</h4>
+  <a title="Darlis A. Amorim_ | DevTo" target="_blank" href="https://dev.to/darlisamorim"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+  <a title="Darlis A. Amorim_ | Medium" href="https://medium.com/@darlisamorim"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+  <a title="Darlis A. Amorim_ | CodePen" href="https://codepen.io/darlisamorim"><img src="https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black" /></a>&nbsp;&nbsp;&nbsp;
+  <a title="Darlis A. Amorim_ | Website" href="https://www.darlisalvesamorim.com"><img src="https://img.shields.io/badge/-My%20Blog-17bf63?&style=for-the-badge&logo=blog&logoColor=black" /></a>&nbsp;&nbsp;&nbsp;
 </p>
 
-
-<p align='center'>
-  <a title="Darlis A. Amorim_ | Linktr.ee" target="_blank" href="https://linktr.ee/darlisamorim"><img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a title="Darlis A. Amorim_ | Linkedin" target="_blank" href="https://www.linkedin.com/in/darlisamorim/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:eu@darlisalvesamorim.com?subject=Olá%20Darlis%20A.%20Amorim_"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-</p>
 
 
 
 <p align="center">
 		<img alt="Languagens" src="https://img.shields.io/github/languages/count/darlisamorim/Origins?style=for-the-badge" height="20"/>
-    <img alt="Made By" src="https://img.shields.io/badge/Made%20by-Stefany%20S%C3%A1-blueviolet?style=for-the-badge&logo=appveyor" height="20"/>
 </p>
 
 
