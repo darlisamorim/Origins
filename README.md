@@ -88,8 +88,8 @@ O Layout foi separado em camadas veja ( Pastas e Arquivos ):
 
   * **raiz/**:
     * index.php -> Responsável pelas sessões ( sections ) do site
-    * README.md -> Arquivo de configuração do git ( O tutorial que está lendo agora )
-    * robots.txt -> Arquivo que define quais diretórios os buscadores podem ler e interpretar
+    * README.md -> Arquivo padrão de interpretação do git ou seja este tutorial que está lendo agora
+    * robots.txt -> Define quais diretórios os buscadores podem ou não ler e interpretar ( Disallow: /PASTA/ )--> desativa a interpretação 
     * ~~rss.php~~  -> Arquivo *Pendente
     * ~~sitemap.php~~ -> Arquivo *Pendente
 
