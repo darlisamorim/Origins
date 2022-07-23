@@ -20,7 +20,7 @@
 
 
 <p align="center">
-		<img alt="Languagens" src="https://img.shields.io/github/languages/count/StefanyVasc/Proffy?style=for-the-badge" height="20"/>
+		<img alt="Languagens" src="https://img.shields.io/github/languages/count/darlisamorim/Origins?style=for-the-badge" height="20"/>
     <img alt="Made By" src="https://img.shields.io/badge/Made%20by-Stefany%20S%C3%A1-blueviolet?style=for-the-badge&logo=appveyor" height="20"/>
 </p>
 
