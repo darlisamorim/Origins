@@ -61,7 +61,7 @@ O Layout foi separado em camadas veja:
 
 Estrutura:
   * _storage:
-    * [css]
+    * [/css]
       * [/components] -> ( Bibliotecas (AnimateCSS, Reset, Variáveis etc)... )
         * animate.css
         * boxicons.css
@@ -74,14 +74,17 @@ Estrutura:
         * queries.css
         * reset.css
       * [/folds] -> ( Style Páginas (Header, Main, Footer etc)... )
-    * [fonts] -> ( Complementos das Bibliotecas )
-    * [images] -> ( Imagens do Projeto (Logo, favicon, Default) )
-    * [js] -> ( Scripts do Projeto (Html5shiv, jQuery e Main) )
+
+    * [/fonts] -> ( Complementos das Bibliotecas )
+    * [/images] -> ( Imagens do Projeto (Logo, favicon, Default) )
+    * [/js] -> ( Scripts do Projeto (Html5shiv, jQuery e Main) )
+
   * partls:
     * [seo.php] -> Otimizações para os Buscadores
     * [header.php] ->
     * [footer.php]
 
+  * /RAIZ:
 
 
 <p align="center">
