@@ -64,6 +64,9 @@ Estrutura:
     * [css]
       * components
       * [folds]
+    * [fonts]
+    * [images]
+    * [js]
   * partls
     * [seo.php]
     * [header.php]
