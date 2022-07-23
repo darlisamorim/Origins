@@ -83,8 +83,8 @@ O Layout foi separado em camadas veja ( Pastas e Arquivos ):
 
   * **/partls**:
     * [seo.php] -> Otimizações para os buscadores
-    * [header.php] ->
-    * [footer.php]
+    * [header.php] -> Arquivo de cabeçalho e definições do site
+    * [footer.php] -> Rodapé do site
 
   * **raiz/**:
     * index.php -> Responsável pelas sessões ( sections ) do site
@@ -102,17 +102,6 @@ O Layout foi separado em camadas veja ( Pastas e Arquivos ):
 <br/>
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)](#file-insomnia)
-
-## ➤ File Insomnia
-
-O arquivo .json com o arquivo usado no Insomnia está dentro da raiz do projeto. Basta fazer o download e importar no insomnia e usar. Lembre de alterar o que for necessário para que você consiga efetuar as requisições. Ou clique no botão para ser redirecionado. <br/>
-<br/>
-<p align="center">
-<a href="https://insomnia.rest/run/?label=Proffy&uri=https%3A%2F%2Fgithub.com%2FStefanyVasc%2FProffy%2Fblob%2Fmaster%2FInsomnia_2020-08-08.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
-</p>
-
-
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)](#instalao)
 
 ## ➤ Instalação
 
