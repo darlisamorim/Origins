@@ -67,8 +67,8 @@ O Layout foi separado em camadas veja ( Pastas e Arquivos ):
         * cssoo.css
         * fontawesome.css
         * icomoon.css
-        * ~~iconscout.css~~ **->** ( Pendente ( Assim que possível vou coloca-la ) )
         * line-awesome.css
+        * ~~iconscout.css~~ **->** ( Pendente ( Assim que possível vou coloca-la ) )
         * ~~normalize.css~~ **->** ( Desabilitado ( Normalize desativado estou usando o próprio ) )
         * queries.css
         * reset.css
