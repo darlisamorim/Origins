@@ -44,9 +44,12 @@ dw_php_codehinting.config
 .DS_Store
 .AppleDouble
 .LSOverride
+/_MACOSX/
+_MACOSX
 
 # Icon must end with two \r
-Icon
+Icon
+
 
 # Thumbnails
 ._*
