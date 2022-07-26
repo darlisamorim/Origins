@@ -16,7 +16,7 @@
 	--white-hsla: hsla(0, 0%, 100%, .7); /* White Transparent */
 
 	--gray: hsl(0, 0%, 16%);
-	--gray-hsla: hsla(0, 0%, 16%, 7);
+	--gray-hsla: hsla(0, 0%, 16%, .7);
 	--gray-var: hsl(0, 0%, 95%);
 
 
