@@ -140,8 +140,8 @@ Desde de que você tenha atenção irá conseguir modificar e ajustar os arquivo
 
 * Eu utilizei uma nomenclatura **{SITE_NAME}**, **{SITE_URL}** etc ... Seria ótimo você utilizar o **PHP** para definir constantes com os valores das Tags dessa forma você evitaria a reescrita de código ou textos. Algumas dessas **nomenclatura** são de URL e em alguns casos você terá que substituir para a url da sua página para seu script funcionar. 
 
-* Eu estou alguns arquivos estão desativados ou pendentes no projeto, pois eu não achei ou não tive tempo para escreve-los/coloca-los fique a vontade para implementar.
+* Eu deixei alguns arquivos desativados ou pendentes no projeto, pois eu não achei ou não tive tempo para escreve-los/coloca-los fique a vontade para implementar ou aguarde a próxima **RELEASE**.
 
-* Eu estou utilizando um **Reset.css** próprio, porém caso queira utilizar o normalize basta desabilitar o meu ou excluir de qualquer forma todos os arquivos foram pra você neste projeto.
+* To usando um **RESET.css** próprio, porém caso queira utilizar o **NORMALIZE.css** basta habilita-lo. Use apenas um deles de qualquer forma todos os arquivos foram adicionados para você neste projeto você tem o poder de escolha.
 
-* **RSS** e **SITEMAP**, vou criar um **RELEASE** com esses dois arquivos, porém o certo seria adiciona-los somente quando você já tiver implementado um loop com comunicação com banco de dados assim você puxa os valores dinamicamente e ficará muito mais fácil a escrita manualmente é muito trabalhoso, porém vou criar a base eles e deixar como bônus na próxima **RELEASE** ai vocês só precisaram implementar.
+* **RSS** e **SITEMAP**, vou criar uma **RELEASE** com esses dois arquivos, porém o certo seria adiciona-los somente quando você já tiver implementado um loop com comunicação com banco de dados assim você puxa os valores dinamicamente e ficará muito mais fácil, pois a escrita manualmente é muito trabalhosa, porém vou criar a base eles e deixar como bônus também na próxima **RELEASE**.
