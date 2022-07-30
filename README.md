@@ -62,16 +62,16 @@ O Layout foi separado em camadas veja ( Pastas e Arquivos ):
   * **/_storage**:
     * [/css]
       * [/components] **->** ( Arquivos de Bibliotecas )
+        * reset.css
+        * cssoo.css
         * animate.css
         * boxicons.css
-        * cssoo.css
         * fontawesome.css
-        * icomoon.css
         * line-awesome.css
+        * icomoon.css
         * ~~iconscout.css~~ **->** ( Pendente ( Assim que possível vou coloca-la ) )
         * ~~normalize.css~~ **->** ( Desabilitado ( Normalize desativado estou usando o próprio ) )
         * queries.css
-        * reset.css
       * [/folds] **->** ( Style de Páginas )
         * header.css
         * main.css
