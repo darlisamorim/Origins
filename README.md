@@ -90,6 +90,7 @@ O Layout foi separado em camadas veja ( Pastas e Arquivos ):
     * index.php **->** Responsável pelas sessões ( sections ) do site
     * README.md **->** Arquivo padrão de interpretação do git ou seja este tutorial que está lendo agora
     * robots.txt **->** Define quais diretórios os buscadores podem ou não ler e interpretar
+    * .gitignore **->** Arquivo de configuração do Github define o que será excluido na hora do envio para o repositório
     * ~~rss.php~~  **->** Arquivo *Pendente
     * ~~sitemap.php~~ **->** Arquivo *Pendente
 
