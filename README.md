@@ -78,8 +78,14 @@ O Layout foi separado em camadas veja ( Pastas e Arquivos ):
         * footer.css
 
     * [/fonts] **->** ( Arquivos complementares das bibliotecas ( .eot, svg, ttf etc..) )
-    * [/images] **->** ( Imagens do projeto (Logo, favicon, Default) )
-    * [/js] **->** ( Scripts do projeto (Html5shiv, jQuery e Main) )
+    * [/images] **->** Imagens do projeto
+      * logo.svg
+      * favicon.svg
+      * default.svg   
+    * [/js] **->** Scripts do projeto
+      * html5shiv.js
+      * jquery.js
+      * main.js
 
   * **/partls**:
     * [seo.php] **->** Otimizações para os buscadores
