@@ -2,7 +2,7 @@
 _files
 _storage/images/psd
 
-# .env
+# File .env
 .env
 .env.test
 .env.production
