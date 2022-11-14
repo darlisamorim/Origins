@@ -94,6 +94,7 @@ O Layout foi separado em camadas veja ( Pastas e Arquivos ):
 
   * **raiz/**:
     * index.php **->** Responsável pelas sessões ( sections ) do site
+    * .env.example **->** Variáveis de ambiente 
     * README.md **->** Arquivo padrão de interpretação do git ou seja este tutorial que está lendo agora
     * robots.txt **->** Define quais diretórios os buscadores podem ou não ler e interpretar
     * .gitignore **->** Define quais arquivos não serão adicionados na hora do envio para o repositório
