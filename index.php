@@ -26,7 +26,7 @@
           <!-- Fim Article -->
 
           <figure class="animate__animated animate__bounceInLeft">
-            <img src="_storage/images/default.svg" title="{SITE_TITLE} | {SITE_SUBNAME}" alt="{SITE_TITLE} | {SITE_SUBNAME}" />
+            <img src="_files/_storage/images/default.svg" title="{SITE_TITLE} | {SITE_SUBNAME}" alt="{SITE_TITLE} | {SITE_SUBNAME}" />
 
             <figcaption>
               <p>
@@ -61,7 +61,7 @@
           <!-- Fim Article -->
 
           <figure class="animate__animated animate__bounceInLeft">
-            <img src="_storage/images/default.svg" title="{SITE_TITLE} | {SITE_SUBNAME}" alt="{SITE_TITLE} | {SITE_SUBNAME}" />
+            <img src="_files/_storage/images/default.svg" title="{SITE_TITLE} | {SITE_SUBNAME}" alt="{SITE_TITLE} | {SITE_SUBNAME}" />
 
             <figcaption>
               <p>

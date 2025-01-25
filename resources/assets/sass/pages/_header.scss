@@ -1,0 +1,91 @@
+.header {
+    height: 100vh;
+    .header_content
+    {
+        flex-direction: column;
+        justify-content: center;
+        align-content: center;
+    }
+    .header_content:first-child
+    {
+        justify-content: center;
+        height: 80px;
+
+        .nav, ul.nav
+        {
+            display: flex;
+
+            li
+            {
+                margin-right: 20px;
+
+                &:last-of-type
+                {
+                    margin-right: 0;
+                }
+
+                a
+                {
+                    font-size: var(--font-smaller);
+                    color: var(--color-gray);
+                    font-weight: bolder;
+                    @include transition(all 280ms ease-in-out);
+
+                    &:hover
+                    {
+                        color: var(--color-first);
+                    }
+                }
+            }
+        }
+    }
+    .header_content:nth-child(2)
+    {
+        font-weight: bolder;
+        //justify-content: flex-end;
+        align-items: center;
+        text-align: center;
+        margin-bottom: 20px;
+
+        h1.logotipo
+        {
+            font-size: var(--font-fullsize);
+        }
+        p.description
+        {
+            background-color: var(--gradient-red);
+            padding: 12px;
+            font-size: var(--font-big);
+        }
+    }
+    .header_content:nth-child(3)
+    {
+        justify-content: flex-start;
+
+        button.my_resume
+        {
+            font-weight: bolder;
+            border: 2px solid var(--color-black);
+            padding: 12px 22px;
+            background-color: var(--color-white);
+            @include transition(all 280ms ease-in-out);
+
+            a .fa-solid
+            {
+                color: var(--color-first);
+                @include transition(all 280ms ease-in-out);
+            }
+
+            &:hover
+            {
+                border: 2px solid var(--color-gray-clean);
+                background-color: var(--color-black);
+            }
+
+            &:hover a, &:hover .fa-solid
+            {
+                color: var(--color-white);
+            }
+        }
+    }
+}

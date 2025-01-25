@@ -1,0 +1,25 @@
+.footer {
+    //padding: 60px 0 0 0;
+
+    .content_flex:first-child
+    {
+        justify-content: center;
+        align-items: center;
+
+        h1
+        {
+            text-align: center;
+        }
+    }
+
+    .content_flex
+    {
+        padding: 60px 0;
+    }
+
+    .footer_tools
+    {
+        font-weight: bolder;
+        justify-content: space-between;
+    }
+}
